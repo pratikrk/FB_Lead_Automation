@@ -16,7 +16,7 @@ graph TD
     D -->|Doesn't meet criteria| G[Skip lead]
     C -->|No leads found| H[Display error message]
     B -->|No| I[Display connection error]
-
+```
 
 ## Steps
 1. **Bot Initialization:** The bot connects to Discord.
