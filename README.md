@@ -4,7 +4,7 @@ This Discord bot automates the retrieval of leads from a specified Facebook page
 
 ## Flowchart
 
-![Flowchart](path/to/your/image.png)
+![Flowchart](https://github.com/pratikrk/FB_Lead_Automation/blob/main/Flowchart.png)
 
 ```mermaid
 graph TD
