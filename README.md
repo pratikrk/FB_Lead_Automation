@@ -26,12 +26,6 @@ graph TD
 5. **Repeat:** Steps 3 and 4 are repeated for each lead.
 6. **Error Handling:** If there's an issue with the connection or retrieval, error messages are displayed.
 
-## How to Use
-1. Clone this repository.
-2. Install necessary dependencies.
-3. Set up the Discord bot token and Facebook user token.
-4. Run the script.
-
 ## Requirements
 - Discord.py
 - Requests
